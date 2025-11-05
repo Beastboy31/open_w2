@@ -1,0 +1,10 @@
+Apple
+Banana
+Orange
+Milk
+Bread
+Eggs
+Rice
+Cheese
+Juice
+Butter
