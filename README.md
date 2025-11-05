@@ -25,3 +25,4 @@ Total products: 10.0
 Updated README with lab instructions
 
 (fixed typo for "groceries" on line 5 - Aaren)
+okie dokieee
